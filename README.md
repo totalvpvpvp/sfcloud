@@ -8,7 +8,7 @@ SFcloud机场使用SS协议，全IEPL专线， 大带宽专线传输，晚高峰
 
 SFcloud机场支持支付宝/微信支付。
 
-## SFcloud优惠码111
+## SFcloud优惠码1111
 
 限时5折优惠码：50off
 
